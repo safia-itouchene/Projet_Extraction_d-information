@@ -1,8 +1,3 @@
----
-title: "Information Extraction Project"
-output: github_document
----
-
 # 📊 **Information Extraction Project**
 
 This project automates the extraction, enrichment, and storage of medical data from HTML files, focusing on creating structured dictionaries and analyzing medication-related information.
