@@ -1,0 +1,46 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+26
+"<E>" 17 270 1 2 
+"" 1282 33 0 
+"<N+subst>" 28 329 3 3 8 10 
+"<MOT>" 37 126 1 8 
+"<TOKEN>" 314 203 1 10 
+"mg+ml+g+%+µg+UI+\/" 223 82 5 5 13 15 19 4 
+"\/+." 272 445 2 7 5 
+"kg+m²" 201 365 1 10 
+"<NB>" 138 159 3 8 9 10 
+"," 141 401 1 8 
+"<E>" 423 292 3 12 11 16 
+"soir+midi+j+<jour>+pendant+caucher+<semaine>+h+encore+matin+coucher+min+heures+minutes+minute+mois+ans+<anné>+heure+années+depuis+mns+mardi+mercredi+dimanche+samedi+vendredi+lundi+durant" 1014 277 8 14 18 12 21 23 24 25 1 
+"<DET>+\/+par+\:+<E>+-+.+cinq+<PREP>+<PREPDET>+A+,+deux+trois+hb+x+-+fois+(+)+et+heures+un+trois+une+quatre+cinq+six+sept+pleine+durant" 494 567 6 15 18 16 11 12 13 
+"cp+1\/2+1\/2cp+½+comprimé+¾+<dose>+<gélule>+<fois>+<goutte>+<cuillère>+l+cc+cps+ng+sachet+cps+dl+<amp>+gamma" 882 461 1 12 
+"<NB>" 830 165 1 11 
+"jours" 853 26 1 1 
+"<MOT>" 731 27 2 12 11 
+"<NB>" 348 50 1 10 
+"-+.+_+(+)+," 781 639 1 16 
+"et+<PREP>+<PREPDET>+<DET>+ou+ce+cet+au" 527 140 4 12 11 14 18 
+"NB" 1211 306 2 19 1 
+"<cutané>" 1227 398 1 1 
+"sous" 1127 281 2 20 22 
+"-" 1148 336 1 20 
+"\/" 1210 209 1 19 
+")" 1094 234 1 19 
